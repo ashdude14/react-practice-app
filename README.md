@@ -1,4 +1,4 @@
-<p> <img align= "centre" src = "https://github.com/ashdude14/react-practice-app/blob/main/output.gif" width="520" height= "320"/> </p>
+<p> <img align= "centre" src = "https://github.com/ashdude14/react-practice-app/blob/main/output.gif" width="520" height= "321"/> </p>
 
 
 # React TextUtils Pratice App
