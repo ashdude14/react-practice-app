@@ -1,4 +1,4 @@
-![] ("./output.gif" )
+![gif] (./output.gif)
 
 
 # React TextUtils Pratice App
