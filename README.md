@@ -1,4 +1,4 @@
-![gif] (./output.gif)
+![gif] (https://github.com/ashdude14/react-practice-app/blob/main/output.gif)
 
 
 # React TextUtils Pratice App
