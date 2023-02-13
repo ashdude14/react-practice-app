@@ -1,4 +1,4 @@
- <img src = "./output.gif" />
+ <img src = "./output.gif" width="6000" height="320"/>
 
 
 # React TextUtils Pratice App
