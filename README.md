@@ -1,4 +1,4 @@
-<p> <img align= "centre" src = "./output.gif" /> </p>
+ <img src = "./output.gif" />
 
 
 # React TextUtils Pratice App
